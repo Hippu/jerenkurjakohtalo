@@ -1,0 +1,43 @@
+﻿[{
+    "$TypeId": 3,
+    "Id": "9b6b259a88604205af552dbe13f90e54",
+    "Name": "LaserShooter",
+    "ExportFlags": 0,
+    "Unlisted": false,
+    "Visibility": 0,
+    "TypeCode": "Component",
+    "Fields": [{
+        "Id": "6075ca40f9804ae39c6d0dfa911f3fda",
+        "Name": "shootMode",
+        "FieldType": { "Id": "e9390437f6044622b91b3b94e43e5cfb", "Name": "ShootingMode" },
+        "Array": false,
+        "Visibility": 0
+    }, {
+        "Id": "b5702cea6f944b26af7f49dc8ecd766b",
+        "Name": "laserSpawners",
+        "FieldType": { "Id": "5a182d9d039d4dfd8fa96132d05f9ee7", "Name": "EntityReference" },
+        "Array": true,
+        "Visibility": 0
+    }, {
+        "Id": "0956dc5c009546ec9942f94700035315",
+        "Name": "laserSpawnerIndex",
+        "FieldType": { "Id": "1da58c8ba95a4c85a2b5920bd0663f70", "Name": "UInt32" },
+        "Array": false,
+        "Visibility": 1
+    }, {
+        "Id": "0b48451d54054b4f8fbe7ced62506f32",
+        "Name": "lastShotOn",
+        "FieldType": { "Id": "67325dccf2f047c19c7ef4a045354e67", "Name": "Float32" },
+        "Array": false,
+        "Visibility": 1
+    }, {
+        "Id": "0e8435ccbb3d49e6a9b908c549c76357",
+        "Name": "enteredShootModeOn",
+        "FieldType": { "Id": "67325dccf2f047c19c7ef4a045354e67", "Name": "Float32" },
+        "Array": false,
+        "Visibility": 1
+    }],
+    "DefaultValue": {
+        "Type": { "Id": "9b6b259a88604205af552dbe13f90e54", "Name": "LaserShooter" }
+    }
+}]

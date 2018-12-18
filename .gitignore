@@ -3,6 +3,8 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Tt]iny/
+[Tt]iny[Ee]xport/
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory

@@ -1,0 +1,22 @@
+﻿[{
+    "$TypeId": 3,
+    "Id": "556aa60bbada4a51986bc4f86771b876",
+    "Name": "Laser",
+    "ExportFlags": 0,
+    "Unlisted": false,
+    "Visibility": 0,
+    "TypeCode": "Component",
+    "Fields": [{
+        "Id": "aa82fe4f613141a6aaed88388386a609",
+        "Name": "speed",
+        "FieldType": { "Id": "67325dccf2f047c19c7ef4a045354e67", "Name": "Float32" },
+        "Array": false,
+        "Visibility": 0
+    }],
+    "DefaultValue": {
+        "Type": { "Id": "556aa60bbada4a51986bc4f86771b876", "Name": "Laser" },
+        "Properties": {
+            "speed": 5
+        }
+    }
+}]

@@ -1,0 +1,45 @@
+﻿[{
+    "$TypeId": 3,
+    "Id": "f36b8252bae443319a2d9eedceb7dfee",
+    "Name": "Wobble",
+    "ExportFlags": 0,
+    "Unlisted": false,
+    "Visibility": 0,
+    "Documentation": {
+        "Summary": "\t"
+    },
+    "TypeCode": "Component",
+    "Fields": [{
+        "Id": "02197625d29b449da5efeb5fbfa19f83",
+        "Name": "wobbleRate",
+        "FieldType": { "Id": "67325dccf2f047c19c7ef4a045354e67", "Name": "Float32" },
+        "Array": false,
+        "Visibility": 0
+    }, {
+        "Id": "7e22bc73b8ba438ab940db6c5eb9d64b",
+        "Name": "maxRotation",
+        "FieldType": { "Id": "67325dccf2f047c19c7ef4a045354e67", "Name": "Float32" },
+        "Array": false,
+        "Visibility": 0
+    }, {
+        "Id": "e09cb4af24d64c8ca8fef591653229a6",
+        "Name": "minRotation",
+        "FieldType": { "Id": "67325dccf2f047c19c7ef4a045354e67", "Name": "Float32" },
+        "Array": false,
+        "Visibility": 0
+    }, {
+        "Id": "ecb90da109ae4f76a0e40adfdfc1b2f7",
+        "Name": "direction",
+        "FieldType": { "Id": "67325dccf2f047c19c7ef4a045354e67", "Name": "Float32" },
+        "Array": false,
+        "Visibility": 1
+    }],
+    "DefaultValue": {
+        "Type": { "Id": "f36b8252bae443319a2d9eedceb7dfee", "Name": "Wobble" },
+        "Properties": {
+            "maxRotation": 30,
+            "minRotation": 30,
+            "direction": 1
+        }
+    }
+}]

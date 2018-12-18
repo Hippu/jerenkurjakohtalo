@@ -1,0 +1,20 @@
+﻿[{
+    "$TypeId": 3,
+    "Id": "e9390437f6044622b91b3b94e43e5cfb",
+    "Name": "ShootingMode",
+    "ExportFlags": 0,
+    "Unlisted": false,
+    "Visibility": 0,
+    "TypeCode": "Enum",
+    "BaseType": { "Id": "9633c95a0a68473682f09ed6a01194b4", "Name": "Int32" },
+    "Fields": [{
+        "Id": "9226452f11514297beee7956d68a1747",
+        "Name": "Random",
+        "FieldType": { "Id": "9633c95a0a68473682f09ed6a01194b4", "Name": "Int32" },
+        "Array": false,
+        "Visibility": 0
+    }],
+    "DefaultValue": {
+        "Type": { "Id": "e9390437f6044622b91b3b94e43e5cfb", "Name": "ShootingMode" }
+    }
+}]

@@ -1,0 +1,12 @@
+﻿[{
+    "$TypeId": 3,
+    "Id": "37e2c7526b974471ba02e669e9574927",
+    "Name": "NewStruct",
+    "ExportFlags": 0,
+    "Unlisted": false,
+    "Visibility": 0,
+    "TypeCode": "Struct",
+    "DefaultValue": {
+        "Type": { "Id": "37e2c7526b974471ba02e669e9574927", "Name": "NewStruct" }
+    }
+}]
